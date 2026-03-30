@@ -3,7 +3,6 @@
 ##  Student Information
 
 Name: Dheeraj Kumar Mahto 
-
 Registration Number: 25BCE10465   
 Branch: B.Tech Computer Science Engineering  
 Year: First Year  
@@ -91,8 +90,7 @@ Through this project, I learned:
 ---
 
 ## 🔗 Useful Links
-
-- Canva: https://www.canva.com  
+  
 - GitHub: https://github.com/goludheerajm31-arch  
 - LinkedIn: www.linkedin.com/in/dheeraj-kumar-mahto-b130a539a  
 - HackerRank: https://www.hackerrank.com/profile/goludheerajm31  
