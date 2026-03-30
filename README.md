@@ -23,38 +23,6 @@ The project consists of five modules covering digital awareness, professional po
 
 ---
 
-## 📂 Repository Structure
-digital-literacy-project/
-│
-├── README.md
-│
-├── report/
-│ └── Project_Report.docx
-│
-├── task-1-presentation/
-│ └── infographic.png
-│
-├── task-2-portfolio/
-│ ├── github-profile.png
-│ ├── linkedin-profile.png
-│ └── kaggle-profile.png
-│
-├── task-3-platforms/
-│ ├── hackerrank-challenge.png
-│ ├── google-form.png
-│ └── responses-sheet.png
-│
-├── task-4-email-etiquette/
-│ ├── email-1.txt
-│ ├── email-2.txt
-│ └── social-media-checklist.md
-│
-└── task-5-cybercrime/
-├── casestudy.md
-└── prevention-checklist.md
-
----
-
 ##  Module Summaries
 
 ###  Task 1 – Digital Literacy Infographic
